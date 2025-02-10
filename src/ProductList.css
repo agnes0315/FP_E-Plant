@@ -164,6 +164,12 @@ body {
     color: white;
     display: flex;
 }
+.cartNumber{
+    position: absolute;
+    top: 33px;
+    width: 68px;
+    text-align: center;
+}
 .cart_quantity_count{
     margin-top: 16px;
     /* background-color: red; */
